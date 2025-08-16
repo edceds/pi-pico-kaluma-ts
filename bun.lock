@@ -1,0 +1,14 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "raspberry-kaluma",
+      "devDependencies": {
+        "@types/kaluma": "^1.1.0",
+      },
+    },
+  },
+  "packages": {
+    "@types/kaluma": ["@types/kaluma@1.1.0", "", {}, "sha512-yHGCFSZmITOIIWn08wtipy2+d6pE5aNCLSrUFoDZ5QEhj9DIQzhyvHDf2I8j3FYT8rT9NCWRh9/I34lpbsYKRA=="],
+  }
+}
