@@ -2,7 +2,7 @@ Typescript on Raspberry Pi Pico using Kaluma
 
 ## install
 
-`npm install -g tsc kaluma`
+`npm install -g tsc @kaluma/cli`
 
 ## build
 
